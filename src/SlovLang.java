@@ -1,3 +1,4 @@
+//Oleksandr Shulha
 import java.util.Scanner;
 
 public class SlovLang {
